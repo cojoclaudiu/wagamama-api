@@ -222,50 +222,6 @@
       "category": "curry",
       "description": "a fiery mix of chicken, mangetout, red and green peppers, onions and hot red chillies. served with white rice, sesame seeds, shichimi and fresh lime",
       "id": 92,
-      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/firecracker_prawn.png",
-      "name": "firecracker chicken",
-      "nutritional_information": {
-        "per_100g": {
-          "carbs": 21.38,
-          "energy": {
-            "kcal": 168,
-            "kj": 673
-          },
-          "fat": 5.42,
-          "fibre": 1.52,
-          "protein": 6.25,
-          "salt": 0.66,
-          "sat_fat": 0.54,
-          "sodium": 0.27,
-          "sugar": 4.45
-        },
-        "per_serving": {
-          "carbs": 150.73,
-          "energy": {
-            "kcal": 1185,
-            "kj": 4747
-          },
-          "fat": 38.2,
-          "fibre": 10.75,
-          "protein": 44.08,
-          "salt": 4.68,
-          "sat_fat": 3.82,
-          "sodium": 1.87,
-          "sugar": 31.36
-        }
-      },
-      "price": 13.25,
-      "suitableFor": {
-        "vegan": false,
-        "vegetarian": false
-      }
-    },
-
-    {
-      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya", "sulphur dioxide/sulphites"],
-      "category": "curry",
-      "description": "a fiery mix of chicken, mangetout, red and green peppers, onions and hot red chillies. served with white rice, sesame seeds, shichimi and fresh lime",
-      "id": 92,
       "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/firecracker_chicken.png",
       "name": "firecracker chicken",
       "nutritional_information": {
@@ -446,38 +402,126 @@
       "name": "hot chicken katsu curry",
       "nutritional_information": {
         "per_100g": {
-          "carbs": 18.65,
+          "carbs": 21.09,
           "energy": {
-            "kcal": 171,
-            "kj": 716
+            "kcal": 176,
+            "kj": 739
           },
-          "fat": 7.24,
+          "fat": 7.9,
           "fibre": 0.88,
-          "protein": 7.3,
-          "salt": 0.37,
+          "protein": 7.03,
+          "salt": 0.57,
           "sat_fat": 1.45,
-          "sodium": 0.15,
-          "sugar": 1.14
+          "sodium": 0.23,
+          "sugar": 1.77
         },
         "per_serving": {
-          "carbs": 112.65,
+          "carbs": 134.15,
           "energy": {
-            "kcal": 1031,
-            "kj": 4325
+            "kcal": 1121,
+            "kj": 4700
           },
-          "fat": 43.7,
-          "fibre": 5.29,
-          "protein": 44.09,
-          "salt": 2.22,
-          "sat_fat": 8.77,
-          "sodium": 0.89,
-          "sugar": 6.87
+          "fat": 50.23,
+          "fibre": 5.58,
+          "protein": 44.73,
+          "salt": 3.61,
+          "sat_fat": 9.24,
+          "sodium": 1.45,
+          "sugar": 3.61
         }
       },
       "price": 10.95,
       "suitableFor": {
         "vegan": false,
         "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "mustard", "soya"],
+      "category": "curry",
+      "description": "sweet potato, aubergine + butternut squash coated in crispy panko breadcrumbs, covered in an aromatic curry sauce served with sticky rice and a side salad",
+      "id": 1172,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/yasai_katsu_curry.png",
+      "name": "yasai katsu curry",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 23.1,
+          "energy": {
+            "kcal": 181,
+            "kj": 759
+          },
+          "fat": 8.1,
+          "fibre": 1.01,
+          "protein": 3.38,
+          "salt": 0.37,
+          "sat_fat": 1.45,
+          "sodium": 0.15,
+          "sugar": 1.94
+        },
+        "per_serving": {
+          "carbs": 141.4,
+          "energy": {
+            "kcal": 1107,
+            "kj": 4643
+          },
+          "fat": 49.55,
+          "fibre": 6.17,
+          "protein": 20.69,
+          "salt": 2.29,
+          "sat_fat": 9.12,
+          "sodium": 0.92,
+          "sugar": 11.85
+        }
+      },
+      "price": 9.75,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "mustard", "soya", "sulphur dioxide/sulphites"],
+      "category": "curry",
+      "description": "spicy! vegetables in crispy panko breadcrumbs and covered in our spicy curry sauce. sticky white rice. side salad. japanese pickles",
+      "id": 667,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/hot_yasai_katsu_curry.png",
+      "name": "hot yasai katsu curry",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 25.29,
+          "energy": {
+            "kcal": 186,
+            "kj": 779
+          },
+          "fat": 8.71,
+          "fibre": 1.0,
+          "protein": 3.31,
+          "salt": 0.57,
+          "sat_fat": 1.49,
+          "sodium": 0.23,
+          "sugar": 2.52
+        },
+        "per_serving": {
+          "carbs": 162.9,
+          "energy": {
+            "kcal": 1197,
+            "kj": 5018
+          },
+          "fat": 56.08,
+          "fibre": 6.46,
+          "protein": 21.33,
+          "salt": 3.68,
+          "sat_fat": 9.6,
+          "sodium": 1.47,
+          "sugar": 16.2
+        }
+      },
+      "price": 9.95,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
       }
     }
   ]
