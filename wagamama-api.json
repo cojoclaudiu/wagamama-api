@@ -1,0 +1,484 @@
+{
+  "curry": [
+    {
+      "allergens": ["sesame seeds", "soya", "sulphur dioxide/sulphites "],
+      "category": "curry",
+      "description": "mild + citrusy. coconut. mangetout. peppers. red + spring onion. sesame seeds. chilli. coriander. fresh lime. white rice",
+      "id": 76,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/tofu_raisukaree.png",
+      "name": "Raisukaree Tofu",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 16.89,
+          "energy": {
+            "kcal": 147,
+            "kj": 614
+          },
+          "fat": 7.08,
+          "fibre": 0.98,
+          "protein": 3.67,
+          "salt": 0.4,
+          "sat_fat": 2.04,
+          "sodium": 0.16,
+          "sugar": 1.8
+        },
+        "per_serving": {
+          "carbs": 134.11,
+          "energy": {
+            "kcal": 1167,
+            "kj": 4878
+          },
+          "fat": 56.2,
+          "fibre": 7.77,
+          "protein": 29.14,
+          "salt": 3.19,
+          "sat_fat": 16.16,
+          "sodium": 1.27,
+          "sugar": 14.26
+        }
+      },
+      "price": 11.95,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+    {
+      "allergens": ["crustaceans", "sesame seeds", "soya"],
+      "category": "curry",
+      "description": "a mild, coconut and citrus curry, with prawns, mangetout, peppers, red and spring onions. served with white rice, a sprinkle of mixed sesame seeds, red chillies, coriander and fresh lime",
+      "id": 79,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/raisukaree_prawn.png",
+      "name": "Prawn Raisukaree",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 17.68,
+          "energy": {
+            "kcal": 138,
+            "kj": 579
+          },
+          "fat": 5.94,
+          "fibre": 0.98,
+          "protein": 3.27,
+          "salt": 0.51,
+          "sat_fat": 2,
+          "sodium": 0.2,
+          "sugar": 1.79
+        },
+        "per_serving": {
+          "carbs": 132.25,
+          "energy": {
+            "kcal": 1035,
+            "kj": 4329
+          },
+          "fat": 44.46,
+          "fibre": 7.33,
+          "protein": 24.44,
+          "salt": 3.82,
+          "sat_fat": 14.99,
+          "sodium": 1.53,
+          "sugar": 13.42
+        }
+      },
+      "price": 13.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+    {
+      "allergens": ["sesame seeds", "soya"],
+      "category": "curry",
+      "description": "a mild, coconut and citrus curry, with chicken, mangetout, peppers, red and spring onions. served with white rice, a sprinkle of mixed sesame seeds, red chillies, coriander and fresh lime",
+      "id": 75,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/raisukaree_prawn.png",
+      "name": "Chicken Raisukaree",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 17.1,
+          "energy": {
+            "kcal": 145,
+            "kj": 607
+          },
+          "fat": 6.13,
+          "fibre": 1.03,
+          "protein": 5.1,
+          "salt": 0.43,
+          "sat_fat": 2.01,
+          "sodium": 0.17,
+          "sugar": 1.77
+        },
+        "per_serving": {
+          "carbs": 132.32,
+          "energy": {
+            "kcal": 1123,
+            "kj": 4701
+          },
+          "fat": 47.44,
+          "fibre": 8,
+          "protein": 39.47,
+          "salt": 3.32,
+          "sat_fat": 15.55,
+          "sodium": 1.33,
+          "sugar": 13.66
+        }
+      },
+      "price": 12.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya", "sulphur dioxide/sulphites"],
+      "category": "curry",
+      "description": "bold + fiery. tofu. mangetout. red + green peppers. onion. hot red chillies. sesame seeds. shichimi.fresh lime. white rice",
+      "id": 91,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/tofu_firecracker.png",
+      "name": "Firecracker Tofu",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 21.64,
+          "energy": {
+            "kcal": 171,
+            "kj": 683
+          },
+          "fat": 6.58,
+          "fibre": 1.57,
+          "protein": 4.03,
+          "salt": 0.64,
+          "sat_fat": 0.61,
+          "sodium": 0.26,
+          "sugar": 4.53
+        },
+        "per_serving": {
+          "carbs": 153.13,
+          "energy": {
+            "kcal": 1208,
+            "kj": 4831
+          },
+          "fat": 46.52,
+          "fibre": 11.12,
+          "protein": 28.48,
+          "salt": 4.52,
+          "sat_fat": 4.32,
+          "sodium": 1.81,
+          "sugar": 32.04
+        }
+      },
+      "price": 11.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "crustaceans", "sesame seeds", "soya", "sulphur dioxide/sulphites"],
+      "category": "curry",
+      "description": "a fiery mix of prawns, mangetout, red and green peppers, onions and hot red chillies. served with white rice, sesame seeds, shichimi and fresh lime",
+      "id": 93,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/firecracker_prawn.png",
+      "name": "firecracker prawn",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 22.68,
+          "energy": {
+            "kcal": 162,
+            "kj": 644
+          },
+          "fat": 5.22,
+          "fibre": 1.5,
+          "protein": 3.56,
+          "salt": 0.78,
+          "sat_fat": 0.47,
+          "sodium": 0.31,
+          "sugar": 4.71
+        },
+        "per_serving": {
+          "carbs": 150.64,
+          "energy": {
+            "kcal": 1067,
+            "kj": 4247
+          },
+          "fat": 34.38,
+          "fibre": 9.88,
+          "protein": 23.47,
+          "salt": 5.15,
+          "sat_fat": 4.32,
+          "sodium": 2.06,
+          "sugar": 31.06
+        }
+      },
+      "price": 13.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya", "sulphur dioxide/sulphites"],
+      "category": "curry",
+      "description": "a fiery mix of chicken, mangetout, red and green peppers, onions and hot red chillies. served with white rice, sesame seeds, shichimi and fresh lime",
+      "id": 92,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/firecracker_prawn.png",
+      "name": "firecracker chicken",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 21.38,
+          "energy": {
+            "kcal": 168,
+            "kj": 673
+          },
+          "fat": 5.42,
+          "fibre": 1.52,
+          "protein": 6.25,
+          "salt": 0.66,
+          "sat_fat": 0.54,
+          "sodium": 0.27,
+          "sugar": 4.45
+        },
+        "per_serving": {
+          "carbs": 150.73,
+          "energy": {
+            "kcal": 1185,
+            "kj": 4747
+          },
+          "fat": 38.2,
+          "fibre": 10.75,
+          "protein": 44.08,
+          "salt": 4.68,
+          "sat_fat": 3.82,
+          "sodium": 1.87,
+          "sugar": 31.36
+        }
+      },
+      "price": 13.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya", "sulphur dioxide/sulphites"],
+      "category": "curry",
+      "description": "a fiery mix of chicken, mangetout, red and green peppers, onions and hot red chillies. served with white rice, sesame seeds, shichimi and fresh lime",
+      "id": 92,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/firecracker_chicken.png",
+      "name": "firecracker chicken",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 21.38,
+          "energy": {
+            "kcal": 168,
+            "kj": 673
+          },
+          "fat": 5.42,
+          "fibre": 1.52,
+          "protein": 6.25,
+          "salt": 0.66,
+          "sat_fat": 0.54,
+          "sodium": 0.27,
+          "sugar": 4.45
+        },
+        "per_serving": {
+          "carbs": 150.73,
+          "energy": {
+            "kcal": 1185,
+            "kj": 4747
+          },
+          "fat": 38.2,
+          "fibre": 10.75,
+          "protein": 44.08,
+          "salt": 4.68,
+          "sat_fat": 3.82,
+          "sodium": 1.87,
+          "sugar": 31.36
+        }
+      },
+      "price": 12.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "mustard", "soya", "sulphur dioxide/ sulphites"],
+      "category": "curry",
+      "description": "our vegan katsu curry. seitan coated in crispy panko breadcrumbs, covered in an aromatic curry sauce with sticky white rice and a side salad",
+      "id": 1171,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/vegatsu.png",
+      "name": "vegatsu",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 21.03,
+          "energy": {
+            "kcal": 181,
+            "kj": 760
+          },
+          "fat": 6.96,
+          "fibre": 0.88,
+          "protein": 8.09,
+          "salt": 0.81,
+          "sat_fat": 1.37,
+          "sodium": 0.32,
+          "sugar": 1.54
+        },
+        "per_serving": {
+          "carbs": 129.14,
+          "energy": {
+            "kcal": 1110,
+            "kj": 4666
+          },
+          "fat": 42.73,
+          "fibre": 5.43,
+          "protein": 49.67,
+          "salt": 4.97,
+          "sat_fat": 8.42,
+          "sodium": 1.99,
+          "sugar": 9.47
+        }
+      },
+      "price": 10.75,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "mustard", "soya", "sulphur dioxide/sulphites"],
+      "category": "curry",
+      "description": "spicy! vegetables in crispy panko breadcrumbs and covered in our spicy curry sauce. sticky white rice. side salad. japanese pickles",
+      "id": 668,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/jan-menu-image-CO-hot-vegatsus.png",
+      "name": "hot vegatsu",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 23.32,
+          "energy": {
+            "kcal": 186,
+            "kj": 780
+          },
+          "fat": 7.62,
+          "fibre": 0.89,
+          "protein": 7.79,
+          "salt": 0.99,
+          "sat_fat": 1.38,
+          "sodium": 0.39,
+          "sugar": 2.14
+        },
+        "per_serving": {
+          "carbs": 150.65,
+          "energy": {
+            "kcal": 1200,
+            "kj": 5041
+          },
+          "fat": 49.25,
+          "fibre": 5.72,
+          "protein": 50.31,
+          "salt": 6.36,
+          "sat_fat": 8.89,
+          "sodium": 2.55,
+          "sugar": 13.83
+        }
+      },
+      "price": 10.95,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "eggs", "mustard", "soya"],
+      "category": "curry",
+      "description": "chicken or vegetables coated in crispy panko breadcrumbs, covered in an aromatic curry sauce served with sticky rice and a side salad",
+      "id": 71,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/katsu_chicken.png",
+      "name": "chicken katsu curry",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 18.65,
+          "energy": {
+            "kcal": 171,
+            "kj": 716
+          },
+          "fat": 7.24,
+          "fibre": 0.88,
+          "protein": 7.3,
+          "salt": 0.37,
+          "sat_fat": 1.45,
+          "sodium": 0.15,
+          "sugar": 1.14
+        },
+        "per_serving": {
+          "carbs": 112.65,
+          "energy": {
+            "kcal": 1031,
+            "kj": 4325
+          },
+          "fat": 43.7,
+          "fibre": 5.29,
+          "protein": 44.09,
+          "salt": 2.22,
+          "sat_fat": 8.77,
+          "sodium": 0.89,
+          "sugar": 6.87
+        }
+      },
+      "price": 10.75,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "eggs", "mustard", "soya", "sulphur dioxide/ sulphites"],
+      "category": "curry",
+      "description": "spicy! chicken in crispy panko breadcrumbs and covered in our spicy curry sauce. sticky white rice. side salad. japanese pickles",
+      "id": 666,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/curry/hot_chicken_katsu_curry_1.png",
+      "name": "hot chicken katsu curry",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 18.65,
+          "energy": {
+            "kcal": 171,
+            "kj": 716
+          },
+          "fat": 7.24,
+          "fibre": 0.88,
+          "protein": 7.3,
+          "salt": 0.37,
+          "sat_fat": 1.45,
+          "sodium": 0.15,
+          "sugar": 1.14
+        },
+        "per_serving": {
+          "carbs": 112.65,
+          "energy": {
+            "kcal": 1031,
+            "kj": 4325
+          },
+          "fat": 43.7,
+          "fibre": 5.29,
+          "protein": 44.09,
+          "salt": 2.22,
+          "sat_fat": 8.77,
+          "sodium": 0.89,
+          "sugar": 6.87
+        }
+      },
+      "price": 10.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    }
+  ]
+}
