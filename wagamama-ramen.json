@@ -1,0 +1,355 @@
+{
+  "ramen": [
+    {
+      "allergens": ["celery", "cereal containing gluten (wheat)", "crustaceans", "eggs", "fish", "milk", "molluscs", "mustard", "soya"],
+      "category": "ramen",
+      "description": "miso-glazed cod, bok choi and menma on top of noodles in a light vegetable broth. finished with spring onions and chilli oil",
+      "id": 35,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/ramen/miso-glazed_cod.png",
+      "name": "miso-glazed cod ramen",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 10.3,
+          "energy": {
+            "kcal": 89,
+            "kj": 361
+          },
+          "fat": 2.36,
+          "fibre": 0.63,
+          "protein": 5.85,
+          "salt": 1.13,
+          "sat_fat": 0.18,
+          "sodium": 0.45,
+          "sugar": 1.75
+        },
+        "per_serving": {
+          "carbs": 77.58,
+          "energy": {
+            "kcal": 668,
+            "kj": 2720
+          },
+          "fat": 17.76,
+          "fibre": 4.75,
+          "protein": 44.02,
+          "salt": 8.51,
+          "sat_fat": 1.36,
+          "sodium": 3.4,
+          "sugar": 13.18
+        }
+      },
+      "price": 14.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["celery", "cereal containing gluten (barley, wheat)", "crustaceans", "eggs", "fish", "milk", "molluscs", "mustard", "sesame seeds", "soya", "sulphur dioxide/sulphites"],
+      "category": "ramen",
+      "description": "korean barbecue beef brisket, served on a bed of noodles in an extra rich chicken broth. topped with half a tea-stained egg, menma, kimchee and spring onions. finished with coriander and chilli oil",
+      "id": 30,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/ramen/tantanmen_beef_brisket.png",
+      "name": "tantanmen beef brisket ramen",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 11.48,
+          "energy": {
+            "kcal": 98,
+            "kj": 399
+          },
+          "fat": 3.19,
+          "fibre": 0.58,
+          "protein": 5.14,
+          "salt": 1.01,
+          "sat_fat": 0.88,
+          "sodium": 0.41,
+          "sugar": 1.53
+        },
+        "per_serving": {
+          "carbs": 80.67,
+          "energy": {
+            "kcal": 690,
+            "kj": 2802
+          },
+          "fat": 22.42,
+          "fibre": 4.06,
+          "protein": 36.08,
+          "salt": 7.12,
+          "sat_fat": 6.21,
+          "sodium": 2.85,
+          "sugar": 10.75
+        }
+      },
+      "price": 13.75,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["celery", "cereal containing gluten (barley, wheat)", "crustaceans", "eggs", "fish", "soya", "sulphur dioxide/sulphites"],
+      "category": "ramen",
+      "description": "marinated tail-on prawns, kimchee and beansprouts on top of noodles in a spicy vegetable broth. finished with spring onions, fresh lime and coriander",
+      "id": 34,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/ramen/chilli_prawn_-_kimchi_.png",
+      "name": "chilli prawn + kimchee ramen",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 11.59,
+          "energy": {
+            "kcal": 74,
+            "kj": 311
+          },
+          "fat": 1.01,
+          "fibre": 0.74,
+          "protein": 4.49,
+          "salt": 1.32,
+          "sat_fat": 0.09,
+          "sodium": 0.53,
+          "sugar": 2.3
+        },
+        "per_serving": {
+          "carbs": 83.78,
+          "energy": {
+            "kcal": 533,
+            "kj": 2249
+          },
+          "fat": 7.32,
+          "fibre": 5.33,
+          "protein": 32.45,
+          "salt": 9.51,
+          "sat_fat": 0.66,
+          "sodium": 3.8,
+          "sugar": 16.6
+        }
+      },
+      "price": 12.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "eggs", "soya", "sulphur dioxide/ sulphites"],
+      "category": "ramen",
+      "description": "noodles in a spicy chicken broth topped with steak, red onion, spring onions, beansprouts, chilli, coriander and fresh lime",
+      "id": 24,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/ramen/chilli_sirloin_steak.png",
+      "name": "chilli steak ramen",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 8.22,
+          "energy": {
+            "kcal": 66,
+            "kj": 278
+          },
+          "fat": 0.68,
+          "fibre": 0.64,
+          "protein": 6.68,
+          "salt": 0.6,
+          "sat_fat": 0.15,
+          "sodium": 0.24,
+          "sugar": 1.67
+        },
+        "per_serving": {
+          "carbs": 85.05,
+          "energy": {
+            "kcal": 681,
+            "kj": 2879
+          },
+          "fat": 7.05,
+          "fibre": 6.59,
+          "protein": 69.12,
+          "salt": 6.18,
+          "sat_fat": 1.59,
+          "sodium": 2.47,
+          "sugar": 17.32
+        }
+      },
+      "price": 13.75,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "eggs", "soya", "sulphur dioxide/sulphites"],
+      "category": "ramen",
+      "description": "noodles in a spicy chicken broth topped with grilled chicken, red onion, spring onions, beansprouts, chilli, coriander and fresh lime",
+      "id": 25,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/ramen/chilli_chicken.png",
+      "name": "chilli chicken ramen",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 8.69,
+          "energy": {
+            "kcal": 64,
+            "kj": 269
+          },
+          "fat": 1.14,
+          "fibre": 0.65,
+          "protein": 4.68,
+          "salt": 0.66,
+          "sat_fat": 0.19,
+          "sodium": 0.27,
+          "sugar": 1.7
+        },
+        "per_serving": {
+          "carbs": 82.43,
+          "energy": {
+            "kcal": 606,
+            "kj": 2557
+          },
+          "fat": 10.86,
+          "fibre": 6.14,
+          "protein": 44.45,
+          "salt": 6.29,
+          "sat_fat": 1.81,
+          "sodium": 2.51,
+          "sugar": 16.14
+        }
+      },
+      "price": 11.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["celery", "cereal containing gluten (barley, wheat)", "mustard", "sesame seeds", "soya"],
+      "category": "ramen",
+      "description": "shichimi-coated silken tofu and grilled mixed mushrooms on a bed of udon noodles in a curried vegetable broth. finished with pea shoots, carrot, chilli and coriander",
+      "id": 23,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/ramen/kare_burosu_ramen.png",
+      "name": "kare burosu ramen",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 9.08,
+          "energy": {
+            "kcal": 76,
+            "kj": 310
+          },
+          "fat": 3.0,
+          "fibre": 2.04,
+          "protein": 2.47,
+          "salt": 0.61,
+          "sat_fat": 0.49,
+          "sodium": 0.24,
+          "sugar": 1.06
+        },
+        "per_serving": {
+          "carbs": 72.11,
+          "energy": {
+            "kcal": 604,
+            "kj": 2460
+          },
+          "fat": 23.81,
+          "fibre": 16.2,
+          "protein": 19.59,
+          "salt": 4.82,
+          "sat_fat": 3.88,
+          "sodium": 1.93,
+          "sugar": 8.39
+        }
+      },
+      "price": 11.75,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "crustaceans", "eggs", "fish", "milk", "molluscs", "soya", "sulphur dioxide/sulphites"],
+      "category": "ramen",
+      "description": "slow-cooked, seasoned pork belly on top of noodles in a rich chicken broth with dashi and miso. topped with pea shoots, menma, spring onions, wakame and half a tea-stained egg",
+      "id": 31,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/ramen/shirodashi_pork_belly.png",
+      "name": "shirodashi ramen",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 10.5,
+          "energy": {
+            "kcal": 100,
+            "kj": 408
+          },
+          "fat": 3.62,
+          "fibre": 0.59,
+          "protein": 5.73,
+          "salt": 0.99,
+          "sat_fat": 1.17,
+          "sodium": 0.4,
+          "sugar": 1.26
+        },
+        "per_serving": {
+          "carbs": 75.83,
+          "energy": {
+            "kcal": 725,
+            "kj": 2948
+          },
+          "fat": 26.16,
+          "fibre": 4.27,
+          "protein": 41.37,
+          "salt": 7.13,
+          "sat_fat": 8.43,
+          "sodium": 2.85,
+          "sugar": 9.08
+        }
+      },
+      "price": 11.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "eggs", "fish", "soya"],
+      "category": "ramen",
+      "description": "marinated chicken on top of noodles in a rich chicken broth with dashi and miso. topped with pea shoots, menma and spring onionsa non-gluten version of this dish is available. please talk to your server",
+      "id": 20,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/ramen/grilled_chicken.png",
+      "name": "chicken ramen",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 10.41,
+          "energy": {
+            "kcal": 77,
+            "kj": 311
+          },
+          "fat": 0.77,
+          "fibre": 0.62,
+          "protein": 6.34,
+          "salt": 0.84,
+          "sat_fat": 0.19,
+          "sodium": 0.33,
+          "sugar": 0.68
+        },
+        "per_serving": {
+          "carbs": 67.45,
+          "energy": {
+            "kcal": 499,
+            "kj": 2015
+          },
+          "fat": 4.96,
+          "fibre": 4.01,
+          "protein": 41.07,
+          "salt": 5.41,
+          "sat_fat": 1.24,
+          "sodium": 2.17,
+          "sugar": 4.42
+        }
+      },
+      "price": 10.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    }
+  ]
+}
