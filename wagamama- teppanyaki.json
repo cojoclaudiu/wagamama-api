@@ -1,0 +1,399 @@
+{
+  "teppanyaki ": [
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "eggs", "fish", "sesame seeds", "soya", "sulphur dioxide/sulphites"],
+      "category": "teppanyaki",
+      "description": "grilled salmon with soba noodles cooked in curry oil with mangetout, bok choi, red and spring onions, chilli and beansprouts in a teriyaki sauce. garnished with coriander and sesame seeds",
+      "id": 46,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/teppanyaki/teriyaki_soba_salmon.png",
+      "name": "teriyaki salmon soba",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 13.62,
+          "energy": {
+            "kcal": 149,
+            "kj": 625
+          },
+          "fat": 7.01,
+          "fibre": 0.94,
+          "protein": 7.79,
+          "salt": 0.65,
+          "sat_fat": 0.69,
+          "sodium": 0.26,
+          "sugar": 2.66
+        },
+        "per_serving": {
+          "carbs": 80.51,
+          "energy": {
+            "kcal": 882,
+            "kj": 3693
+          },
+          "fat": 41.43,
+          "fibre": 5.57,
+          "protein": 46.04,
+          "salt": 3.82,
+          "sat_fat": 4.09,
+          "sodium": 1.53,
+          "sugar": 15.73
+        }
+      },
+      "price": 13.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "eggs", "sesame seeds", "soya", "sulphur dioxide/sulphites"],
+      "category": "teppanyaki",
+      "description": "grilled steak with soba noodles cooked in curry oil with mangetout, bok choi, red and spring onions, chilli and beansprouts in a teriyaki sauce. garnished with coriander and sesame seeds",
+      "id": 45,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/teppanyaki/teriyaki_soba_sirloin_steak.png",
+      "name": "teriyaki steak soba",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 12.86,
+          "energy": {
+            "kcal": 138,
+            "kj": 578
+          },
+          "fat": 4.82,
+          "fibre": 1.0,
+          "protein": 10.59,
+          "salt": 0.58,
+          "sat_fat": 0.5,
+          "sodium": 0.23,
+          "sugar": 2.68
+        },
+        "per_serving": {
+          "carbs": 83.97,
+          "energy": {
+            "kcal": 899,
+            "kj": 3774
+          },
+          "fat": 31.44,
+          "fibre": 6.52,
+          "protein": 69.15,
+          "salt": 3.81,
+          "sat_fat": 3.26,
+          "sodium": 1.52,
+          "sugar": 17.52
+        }
+      },
+      "price": 13.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "eggs", "soya"],
+      "category": "teppanyaki",
+      "description": "udon noodles with ginger chicken, mangetout, egg, chilli, beansprouts and red and spring onions. topped with pickled ginger and coriander",
+      "id": 44,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/teppanyaki/ginger_chicken_udon.png",
+      "name": "ginger chicken udon",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 10.42,
+          "energy": {
+            "kcal": 116,
+            "kj": 481
+          },
+          "fat": 4.93,
+          "fibre": 2.54,
+          "protein": 6.5,
+          "salt": 0.37,
+          "sat_fat": 0.84,
+          "sodium": 0.15,
+          "sugar": 1.4
+        },
+        "per_serving": {
+          "carbs": 60.94,
+          "energy": {
+            "kcal": 678,
+            "kj": 2815
+          },
+          "fat": 28.86,
+          "fibre": 14.85,
+          "protein": 38.02,
+          "salt": 2.18,
+          "sat_fat": 4.92,
+          "sodium": 0.87,
+          "sugar": 8.21
+        }
+      },
+      "price": 10.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "crustaceans", "eggs", "sesame seeds", "soya"],
+      "category": "teppanyaki",
+      "description": "soba noodles with chicken + prawn, egg, peppers, beansprouts, white and spring onions. garnished with fried shallots, pickled ginger and sesame seeds",
+      "id": 40,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/teppanyaki/teppanyaki-yaki-soba.png",
+      "name": "yaki soba",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 12.99,
+          "energy": {
+            "kcal": 146,
+            "kj": 588
+          },
+          "fat": 6.82,
+          "fibre": 0.95,
+          "protein": 6.88,
+          "salt": 0.76,
+          "sat_fat": 1.08,
+          "sodium": 0.3,
+          "sugar": 1.57
+        },
+        "per_serving": {
+          "carbs": 73.53,
+          "energy": {
+            "kcal": 824,
+            "kj": 3328
+          },
+          "fat": 38.6,
+          "fibre": 5.36,
+          "protein": 38.94,
+          "salt": 4.28,
+          "sat_fat": 6.08,
+          "sodium": 1.71,
+          "sugar": 8.9
+        }
+      },
+      "price": 10.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "eggs", "sesame seeds", "soya"],
+      "category": "teppanyaki",
+      "description": "soba noodles with mushroom + vegetables, egg, peppers, beansprouts, white and spring onions. garnished with fried shallots, pickled ginger and sesame seeds",
+      "id": 41,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/teppanyaki/yaki_soba_yasai_mushroom.png",
+      "name": "yasai yaki soba",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 15.23,
+          "energy": {
+            "kcal": 144,
+            "kj": 574
+          },
+          "fat": 6.48,
+          "fibre": 0.96,
+          "protein": 4.58,
+          "salt": 0.84,
+          "sat_fat": 0.87,
+          "sodium": 0.34,
+          "sugar": 2.78
+        },
+        "per_serving": {
+          "carbs": 83.47,
+          "energy": {
+            "kcal": 790,
+            "kj": 3143
+          },
+          "fat": 35.5,
+          "fibre": 5.28,
+          "protein": 25.09,
+          "salt": 4.62,
+          "sat_fat": 4.77,
+          "sodium": 1.85,
+          "sugar": 15.23
+        }
+      },
+      "price": 9.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["celery, cereal containing gluten (wheat)", "crustaceans", "eggs", "fish", "milk", "molluscs", "mustard", "soya, sulphur dioxide/ sulphites"],
+      "category": "teppanyaki",
+      "description": "black charcoal soba noodles in a soy sauce with two fillets of miso-glazed cod, stir-fried bok choi, mangetout, red peppers and spring onions. drizzled with a sweet miso dressing and garnished with fresh ginger and coriander",
+      "id": 59,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/teppanyaki/cod_mokutan_soba_.png",
+      "name": "cod mokutan soba",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 15.92,
+          "energy": {
+            "kcal": 161,
+            "kj": 676
+          },
+          "fat": 6.61,
+          "fibre": 1.54,
+          "protein": 8.76,
+          "salt": 1.43,
+          "sat_fat": 0.54,
+          "sodium": 0.57,
+          "sugar": 3.91
+        },
+        "per_serving": {
+          "carbs": 81.89,
+          "energy": {
+            "kcal": 829,
+            "kj": 3478
+          },
+          "fat": 34.02,
+          "fibre": 7.92,
+          "protein": 45.05,
+          "salt": 7.34,
+          "sat_fat": 2.76,
+          "sodium": 2.94,
+          "sugar": 7.34
+        }
+      },
+      "price": 14.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "crustaceans", "eggs", "fish", "soya"],
+      "category": "teppanyaki",
+      "description": "chicken + prawn. rice noodles. amai sauce. egg. beansprouts. leeks. chilli. red + spring onion. fried shallots. mint. coriander. fresh lime",
+      "id": 48,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/teppanyaki/pad_thai_chicken_-_prawn.png",
+      "name": "chicken + prawn pad-thai",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 13.99,
+          "energy": {
+            "kcal": 132,
+            "kj": 552
+          },
+          "fat": 5.94,
+          "fibre": 0.99,
+          "protein": 5.59,
+          "salt": 0.98,
+          "sat_fat": 1.18,
+          "sodium": 0.39,
+          "sugar": 3.91
+        },
+        "per_serving": {
+          "carbs": 85.04,
+          "energy": {
+            "kcal": 801,
+            "kj": 3357
+          },
+          "fat": 36.08,
+          "fibre": 6.02,
+          "protein": 33.97,
+          "salt": 5.98,
+          "sat_fat": 7.16,
+          "sodium": 2.39,
+          "sugar": 23.76
+        }
+      },
+      "price": 11.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "eggs", "soya", "sulphur dioxide/sulphites"],
+      "category": "teppanyaki",
+      "description": "tofu + vegetables, with rice noodles. amai sauce. egg. beansprouts. leeks. chilli. red + spring onion. fried shallots. mint. coriander. fresh lime",
+      "id": 47,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/teppanyaki/pad_thai_yasai_tofu.png",
+      "name": "yasai pad thai",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 16.81,
+          "energy": {
+            "kcal": 140,
+            "kj": 585
+          },
+          "fat": 6.23,
+          "fibre": 0.98,
+          "protein": 4.14,
+          "salt": 0.51,
+          "sat_fat": 0.98,
+          "sodium": 0.21,
+          "sugar": 6.42
+        },
+        "per_serving": {
+          "carbs": 101.87,
+          "energy": {
+            "kcal": 849,
+            "kj": 3343
+          },
+          "fat": 37.74,
+          "fibre": 5.94,
+          "protein": 25.11,
+          "salt": 3.11,
+          "sat_fat": 5.95,
+          "sodium": 1.24,
+          "sugar": 38.92
+        }
+      },
+      "price": 10.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "crustaceans", "eggs", "fish", "sesame seeds", "soya"],
+      "category": "teppanyaki",
+      "description": "udon noodles in curry oil with chicken, prawns, chikuwa, egg, beansprouts, leeks, mushrooms and peppers. garnished with fried shallots, pickled ginger and sesame seeds",
+      "id": 42,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/teppanyaki/yaki_udon.png",
+      "name": "yaki udon",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 9.94,
+          "energy": {
+            "kcal": 105,
+            "kj": 431
+          },
+          "fat": 4.25,
+          "fibre": 2.49,
+          "protein": 5.66,
+          "salt": 0.64,
+          "sat_fat": 0.79,
+          "sodium": 0.26,
+          "sugar": 1.5
+        },
+        "per_serving": {
+          "carbs": 61.2,
+          "energy": {
+            "kcal": 650,
+            "kj": 2654
+          },
+          "fat": 26.2,
+          "fibre": 15.1,
+          "protein": 34.86,
+          "salt": 3.93,
+          "sat_fat": 4.88,
+          "sodium": 1.57,
+          "sugar": 9.22
+        }
+      },
+      "price": 10.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    }
+  ]
+}
