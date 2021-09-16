@@ -1,0 +1,883 @@
+{
+  "sides": [
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "lightly battered pulled king oyster mushrooms. shichimi. sticky dipping sauce with fresh chilli+ coriander",
+      "id": 119,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/vegan_chilli_squid.png",
+      "name": "vegan chilli ‘squid’",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 25.13,
+          "energy": {
+            "kcal": 353,
+            "kj": 1468
+          },
+          "fat": 23.4,
+          "fibre": 2.5,
+          "protein": 9.2,
+          "salt": 1.35,
+          "sat_fat": 2.02,
+          "sodium": 0.54,
+          "sugar": 4.4
+        },
+        "per_serving": {
+          "carbs": 40.96,
+          "energy": {
+            "kcal": 575,
+            "kj": 2393
+          },
+          "fat": 38.14,
+          "fibre": 4.08,
+          "protein": 15.0,
+          "salt": 2.2,
+          "sat_fat": 3.29,
+          "sodium": 0.88,
+          "sugar": 7.17
+        }
+      },
+      "price": 6.75,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "mustard", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "mushroom + soya protein ‘ribs’. sweet + spicy sticky sauce. sesame seeds. spring onion",
+      "id": 120,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/vegan_sticky_ribs.png",
+      "name": "sticky vegan ‘ribs’",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 14.3,
+          "energy": {
+            "kcal": 170,
+            "kj": 717
+          },
+          "fat": 3.6,
+          "fibre": 3.7,
+          "protein": 18.3,
+          "salt": 1.53,
+          "sat_fat": 0.51,
+          "sodium": 0.61,
+          "sugar": 6.0
+        },
+        "per_serving": {
+          "carbs": 25.74,
+          "energy": {
+            "kcal": 306,
+            "kj": 1291
+          },
+          "fat": 6.48,
+          "fibre": 6.66,
+          "protein": 32.94,
+          "salt": 2.75,
+          "sat_fat": 0.92,
+          "sodium": 1.1,
+          "sugar": 10.8
+        }
+      },
+      "price": 6.5,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["soya"],
+      "category": "sides",
+      "description": "edamame beans. served with salt",
+      "id": 104,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/edamame_with_salt_.png",
+      "name": "edamame with salt",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 6.44,
+          "energy": {
+            "kcal": 122,
+            "kj": 511
+          },
+          "fat": 4.95,
+          "fibre": 0.0,
+          "protein": 12.97,
+          "salt": 0.0,
+          "sat_fat": 0.79,
+          "sodium": 0.0,
+          "sugar": 1.29
+        },
+        "per_serving": {
+          "carbs": 13.0,
+          "energy": {
+            "kcal": 247,
+            "kj": 1032
+          },
+          "fat": 10.0,
+          "fibre": 6.66,
+          "protein": 26.2,
+          "salt": 0.0,
+          "sat_fat": 1.6,
+          "sodium": 0.0,
+          "sugar": 2.6
+        }
+      },
+      "price": 4.5,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["soya"],
+      "category": "sides",
+      "description": "steamed edamame beans. served with chilli garlic salt",
+      "id": 104.1,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/edamame_with_chilli_garlic_salt.png",
+      "name": "edamame with chilli",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 7.07,
+          "energy": {
+            "kcal": 125,
+            "kj": 520
+          },
+          "fat": 4.89,
+          "fibre": 0.1,
+          "protein": 13.01,
+          "salt": 0.0,
+          "sat_fat": 0.78,
+          "sodium": 0.0,
+          "sugar": 1.33
+        },
+        "per_serving": {
+          "carbs": 14.5,
+          "energy": {
+            "kcal": 255,
+            "kj": 1067
+          },
+          "fat": 10.02,
+          "fibre": 0.21,
+          "protein": 26.66,
+          "salt": 0.0,
+          "sat_fat": 1.6,
+          "sodium": 0.0,
+          "sugar": 2.72
+        }
+      },
+      "price": 4.5,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "crispy wok-fried cauliflower coated in firecracker sauce mixed with red and spring onions, garnished with fresh ginger",
+      "id": 110,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/bang_bang_cauliflower_.png",
+      "name": "bang bang cauliflower",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 20.49,
+          "energy": {
+            "kcal": 243,
+            "kj": 1015
+          },
+          "fat": 16.79,
+          "fibre": 1.55,
+          "protein": 1.82,
+          "salt": 0.46,
+          "sat_fat": 1.32,
+          "sodium": 0.18,
+          "sugar": 4.56
+        },
+        "per_serving": {
+          "carbs": 39.85,
+          "energy": {
+            "kcal": 472,
+            "kj": 1974
+          },
+          "fat": 32.66,
+          "fibre": 3.02,
+          "protein": 3.54,
+          "salt": 0.88,
+          "sat_fat": 2.56,
+          "sodium": 0.35,
+          "sugar": 8.87
+        }
+      },
+      "price": 5.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["soya"],
+      "category": "sides",
+      "description": "tender stem broccoli and bok choi, stir-fried in a garlic and soy sauce",
+      "id": 106,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/wok-fried_greens.png",
+      "name": "wok-fried greens",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 3.69,
+          "energy": {
+            "kcal": 107,
+            "kj": 442
+          },
+          "fat": 9.43,
+          "fibre": 1.4,
+          "protein": 1.91,
+          "salt": 0.83,
+          "sat_fat": 0.65,
+          "sodium": 0.33,
+          "sugar": 2.62
+        },
+        "per_serving": {
+          "carbs": 6.09,
+          "energy": {
+            "kcal": 177,
+            "kj": 730
+          },
+          "fat": 15.55,
+          "fibre": 2.31,
+          "protein": 3.15,
+          "salt": 1.37,
+          "sat_fat": 1.07,
+          "sodium": 0.55,
+          "sugar": 4.32
+        }
+      },
+      "price": 4.75,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "crispy fried tenderstem broccoli, red pepper, sweet potato and asparagus, topped with wakame and served with a sweet + sour dipping sauce",
+      "id": 111,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/vegetable_tempura.png",
+      "name": "vegetable tempura",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 20.35,
+          "energy": {
+            "kcal": 273,
+            "kj": 1137
+          },
+          "fat": 19.58,
+          "fibre": 1.56,
+          "protein": 3.35,
+          "salt": 0.56,
+          "sat_fat": 1.41,
+          "sodium": 0.22,
+          "sugar": 4.86
+        },
+        "per_serving": {
+          "carbs": 28.61,
+          "energy": {
+            "kcal": 384,
+            "kj": 1599
+          },
+          "fat": 27.54,
+          "fibre": 2.19,
+          "protein": 4.72,
+          "salt": 0.78,
+          "sat_fat": 1.98,
+          "sodium": 0.31,
+          "sugar": 6.84
+        }
+      },
+      "price": 5.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya"],
+      "category": "sides",
+      "description": "marinated chicken skewers in a spicy teriyaki sauce with shichimi. garnished with spring onions",
+      "id": 27,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/chicken_yakitori.png",
+      "name": "chicken yakitori",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 8.42,
+          "energy": {
+            "kcal": 177,
+            "kj": 741
+          },
+          "fat": 7.72,
+          "fibre": 0.96,
+          "protein": 18.37,
+          "salt": 0.7,
+          "sat_fat": 0.87,
+          "sodium": 0.28,
+          "sugar": 5.6
+        },
+        "per_serving": {
+          "carbs": 12.63,
+          "energy": {
+            "kcal": 266,
+            "kj": 1112
+          },
+          "fat": 11.57,
+          "fibre": 1.44,
+          "protein": 27.56,
+          "salt": 1.06,
+          "sat_fat": 1.31,
+          "sodium": 0.42,
+          "sugar": 8.41
+        }
+      },
+      "price": 6.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["crustaceans", "fish", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "skewers of grilled prawns marinated in lemongrass, lime and chilli. served with a caramelised lime",
+      "id": 1096,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/prawn_kushiyaki.png",
+      "name": "prawn kushiyaki",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 12.15,
+          "energy": {
+            "kcal": 117,
+            "kj": 493
+          },
+          "fat": 1.66,
+          "fibre": 0.47,
+          "protein": 13.44,
+          "salt": 2.63,
+          "sat_fat": 0.3,
+          "sodium": 1.05,
+          "sugar": 11.36
+        },
+        "per_serving": {
+          "carbs": 14.58,
+          "energy": {
+            "kcal": 140,
+            "kj": 592
+          },
+          "fat": 1.99,
+          "fibre": 0.56,
+          "protein": 16.12,
+          "salt": 3.16,
+          "sat_fat": 0.36,
+          "sodium": 1.26,
+          "sugar": 13.64
+        }
+      },
+      "price": 6.75,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "crustaceans", "eggs", "fish", "milk", "molluscs", "soya"],
+      "category": "sides",
+      "description": "crispy fried squid balls, drizzled with okonomiyaki sauce and mayonnaise. finished with aonori and bonito flakes",
+      "id": 94,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/tama_squid.png",
+      "name": "tama squid",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 23.3,
+          "energy": {
+            "kcal": 277,
+            "kj": 1154
+          },
+          "fat": 17.05,
+          "fibre": 0.44,
+          "protein": 7.25,
+          "salt": 1.69,
+          "sat_fat": 3.44,
+          "sodium": 0.68,
+          "sugar": 4.69
+        },
+        "per_serving": {
+          "carbs": 28.89,
+          "energy": {
+            "kcal": 344,
+            "kj": 1431
+          },
+          "fat": 21.14,
+          "fibre": 0.54,
+          "protein": 8.99,
+          "salt": 2.09,
+          "sat_fat": 4.26,
+          "sodium": 0.48,
+          "sugar": 6.15
+        }
+      },
+      "price": 7.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "crustaceans", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "crispy fried prawns in panko breadcrumbs, served with a spicy chilli and garlic sauce. garnished with chilli, coriander and fresh lime",
+      "id": 103,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/ebi_katsu_.png",
+      "name": "ebi katsu",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 15.42,
+          "energy": {
+            "kcal": 214,
+            "kj": 894
+          },
+          "fat": 12.75,
+          "fibre": 0.79,
+          "protein": 9.23,
+          "salt": 1.76,
+          "sat_fat": 1.32,
+          "sodium": 0.71,
+          "sugar": 3.67
+        },
+        "per_serving": {
+          "carbs": 20.19,
+          "energy": {
+            "kcal": 281,
+            "kj": 1172
+          },
+          "fat": 16.7,
+          "fibre": 1.04,
+          "protein": 12.09,
+          "salt": 2.31,
+          "sat_fat": 1.73,
+          "sodium": 0.92,
+          "sugar": 4.81
+        }
+      },
+      "price": 6.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["molluscs", "sesame seeds", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "crispy fried squid dusted with shichimi. served with a chilli coriander dipping sauce",
+      "id": 107,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/chilli_squid.png",
+      "name": "chilli squid",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 18.49,
+          "energy": {
+            "kcal": 256,
+            "kj": 1066
+          },
+          "fat": 16.24,
+          "fibre": 0.54,
+          "protein": 8.8,
+          "salt": 1.36,
+          "sat_fat": 1.34,
+          "sodium": 0.55,
+          "sugar": 5.57
+        },
+        "per_serving": {
+          "carbs": 42.34,
+          "energy": {
+            "kcal": 586,
+            "kj": 2440
+          },
+          "fat": 37.2,
+          "fibre": 1.23,
+          "protein": 20.16,
+          "salt": 3.12,
+          "sat_fat": 3.07,
+          "sodium": 1.25,
+          "sugar": 12.75
+        }
+      },
+      "price": 6.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "five tasty steamed yasai dumplings, served grilled and with a dipping sauce",
+      "id": 101,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/yasai_gyoza_-_vegetable.png",
+      "name": "yasai steamed gyoza",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 29.42,
+          "energy": {
+            "kcal": 188,
+            "kj": 788
+          },
+          "fat": 5.33,
+          "fibre": 2.13,
+          "protein": 4.37,
+          "salt": 0.52,
+          "sat_fat": 0.56,
+          "sodium": 0.21,
+          "sugar": 7.84
+        },
+        "per_serving": {
+          "carbs": 34.72,
+          "energy": {
+            "kcal": 221,
+            "kj": 930
+          },
+          "fat": 6.29,
+          "fibre": 2.52,
+          "protein": 5.15,
+          "salt": 0.61,
+          "sat_fat": 0.66,
+          "sodium": 0.25,
+          "sugar": 9.25
+        }
+      },
+      "price": 5.95,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya"],
+      "category": "sides",
+      "description": "five tasty steamed chicken dumplings, served grilled and with a dipping sauce",
+      "id": 100,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/chicken_gyoza_.png",
+      "name": "chicken steamed gyoza",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 22.73,
+          "energy": {
+            "kcal": 189,
+            "kj": 794
+          },
+          "fat": 7.2,
+          "fibre": 1.35,
+          "protein": 7.89,
+          "salt": 2.85,
+          "sat_fat": 1.13,
+          "sodium": 1.14,
+          "sugar": 1.5
+        },
+        "per_serving": {
+          "carbs": 26.82,
+          "energy": {
+            "kcal": 223,
+            "kj": 937
+          },
+          "fat": 8.49,
+          "fibre": 1.59,
+          "protein": 9.31,
+          "salt": 3.36,
+          "sat_fat": 1.33,
+          "sodium": 1.34,
+          "sugar": 1.77
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "five tasty steamed pulled pork dumplings, served grilled and with a dipping sauce",
+      "id": 105,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/pulled_pork_gyoza_.png",
+      "name": "pulled pork steamed gyoza",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 30.81,
+          "energy": {
+            "kcal": 192,
+            "kj": 812
+          },
+          "fat": 3.2,
+          "fibre": 2.02,
+          "protein": 9.06,
+          "salt": 0.85,
+          "sat_fat": 0.64,
+          "sodium": 0.34,
+          "sugar": 8.25
+        },
+        "per_serving": {
+          "carbs": 36.97,
+          "energy": {
+            "kcal": 231,
+            "kj": 974
+          },
+          "fat": 3.85,
+          "fibre": 2.42,
+          "protein": 10.87,
+          "salt": 1.02,
+          "sat_fat": 0.76,
+          "sodium": 0.41,
+          "sugar": 9.9
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "five tasty fried duck dumplings served with a dipping sauce",
+      "id": 99,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/duck_gyoza.png",
+      "name": "duck gyoza",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 32.88,
+          "energy": {
+            "kcal": 324,
+            "kj": 1360
+          },
+          "fat": 15.28,
+          "fibre": 1.45,
+          "protein": 13.01,
+          "salt": 2.48,
+          "sat_fat": 1.81,
+          "sodium": 0.99,
+          "sugar": 12.46
+        },
+        "per_serving": {
+          "carbs": 37.81,
+          "energy": {
+            "kcal": 373,
+            "kj": 1564
+          },
+          "fat": 17.57,
+          "fibre": 1.66,
+          "protein": 14.96,
+          "salt": 2.85,
+          "sat_fat": 2.08,
+          "sodium": 1.14,
+          "sugar": 14.33
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "crustaceans", "fish", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "five tasty fried prawn dumplings served with a dipping sauce",
+      "id": 102,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/prawn_gyoza.png",
+      "name": "prawn gyoza",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 22.41,
+          "energy": {
+            "kcal": 206,
+            "kj": 865
+          },
+          "fat": 9.78,
+          "fibre": 1.31,
+          "protein": 7.74,
+          "salt": 2.26,
+          "sat_fat": 0.94,
+          "sodium": 0.9,
+          "sugar": 1.61
+        },
+        "per_serving": {
+          "carbs": 25.1,
+          "energy": {
+            "kcal": 231,
+            "kj": 968
+          },
+          "fat": 10.95,
+          "fibre": 1.47,
+          "protein": 8.66,
+          "salt": 2.53,
+          "sat_fat": 1.06,
+          "sodium": 1.01,
+          "sugar": 1.8
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "mustard", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "pork belly, panko apple + sriracha hirata steamed buns. two small, fluffy asian buns stuffed with pork belly, panko apple and sriracha served with coriander and mayonnaise",
+      "id": 115,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/hirata_steamed_buns-_pork_belly.png",
+      "name": "pork belly hirata steamed buns",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 33.82,
+          "energy": {
+            "kcal": 258,
+            "kj": 1076
+          },
+          "fat": 13.45,
+          "fibre": 1.28,
+          "protein": 8.54,
+          "salt": 1.08,
+          "sat_fat": 3.02,
+          "sodium": 0.43,
+          "sugar": 4.32
+        },
+        "per_serving": {
+          "carbs": 51.41,
+          "energy": {
+            "kcal": 392,
+            "kj": 1636
+          },
+          "fat": 20.44,
+          "fibre": 1.94,
+          "protein": 12.98,
+          "salt": 1.64,
+          "sat_fat": 4.59,
+          "sodium": 0.66,
+          "sugar": 6.56
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "sesame seeds", "soya"],
+      "category": "sides",
+      "description": "two small, fluffy asian buns stuffed with mixed mushrooms and panko aubergine, served with coriander and mayonnaise",
+      "id": 114,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/hirata_steamed_bun_mixed_mushrooms_.png",
+      "name": "mixed mushroom hirata buns",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 23.34,
+          "energy": {
+            "kcal": 214,
+            "kj": 881
+          },
+          "fat": 10.95,
+          "fibre": 1.75,
+          "protein": 4.67,
+          "salt": 1.3,
+          "sat_fat": 1.37,
+          "sodium": 0.52,
+          "sugar": 3.59
+        },
+        "per_serving": {
+          "carbs": 36.88,
+          "energy": {
+            "kcal": 338,
+            "kj": 1391
+          },
+          "fat": 17.31,
+          "fibre": 2.77,
+          "protein": 7.38,
+          "salt": 2.05,
+          "sat_fat": 2.16,
+          "sodium": 0.82,
+          "sugar": 5.67
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "crustaceans", "fish", "milk", "molluscs", "mustard", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "sides",
+      "description": "korean barbecue beef + red onion hirata steamed buns. two small, fluffy asian buns stuffed with korean barbecue beef and red onion, served with coriander and mayonnaise",
+      "id": 113,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/sides/hirata_steamed_bun_korean_barbecue_beef_1.png",
+      "name": "korean barbecue beef hirata steamed buns",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 30.23,
+          "energy": {
+            "kcal": 220,
+            "kj": 922
+          },
+          "fat": 7.78,
+          "fibre": 1.35,
+          "protein": 6.42,
+          "salt": 1.22,
+          "sat_fat": 1.6,
+          "sodium": 0.49,
+          "sugar": 7.85
+        },
+        "per_serving": {
+          "carbs": 36.27,
+          "energy": {
+            "kcal": 264,
+            "kj": 1107
+          },
+          "fat": 9.33,
+          "fibre": 1.62,
+          "protein": 7.7,
+          "salt": 1.47,
+          "sat_fat": 1.92,
+          "sodium": 0.59,
+          "sugar": 9.42
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    }
+  ]
+}
