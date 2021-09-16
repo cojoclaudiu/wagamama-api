@@ -1,0 +1,575 @@
+{
+  "desserts": [
+    {
+      "allergens": ["tree nuts (almond nuts, brazil nuts, cashew nuts, hazelnuts, macadamia nuts, pecan nuts, pistachios, walnuts)", "peanuts", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "desserts",
+      "description": "flourless chocolate orange cake. miso caramel ice cream. chocolate sauce. fresh mint",
+      "id": 134,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/chocolate_orange_cake.png",
+      "name": "chocolate orange cake",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 36.49,
+          "energy": {
+            "kcal": 318,
+            "kj": 1338
+          },
+          "fat": 8.38,
+          "fibre": 2.37,
+          "protein": 3.23,
+          "salt": 0.04,
+          "sat_fat": 8.38,
+          "sodium": 0.02,
+          "sugar": 15.08
+        },
+        "per_serving": {
+          "carbs": 64.96,
+          "energy": {
+            "kcal": 567,
+            "kj": 2381
+          },
+          "fat": 30.72,
+          "fibre": 4.21,
+          "protein": 5.75,
+          "salt": 0.07,
+          "sat_fat": 14.92,
+          "sodium": 0.03,
+          "sugar": 26.85
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (oats, wheat)", "milk", "tree nuts (almond nuts, pecan nuts, walnuts)", "peanuts", "soya"],
+      "category": "desserts",
+      "description": "white chocolate ginger cheesecake. served with a toffee sauce",
+      "id": 131,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/white-choc-cheesecake-update-CO-website.png",
+      "name": "white chocolate + ginger cheesecake",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 36.61,
+          "energy": {
+            "kcal": 316,
+            "kj": 1321
+          },
+          "fat": 16.42,
+          "fibre": 0.36,
+          "protein": 5.22,
+          "salt": 0.23,
+          "sat_fat": 8.72,
+          "sodium": 0.09,
+          "sugar": 22.51
+        },
+        "per_serving": {
+          "carbs": 51.99,
+          "energy": {
+            "kcal": 449,
+            "kj": 1876
+          },
+          "fat": 23.31,
+          "fibre": 0.51,
+          "protein": 7.41,
+          "salt": 0.33,
+          "sat_fat": 12.38,
+          "sodium": 0.13,
+          "sugar": 31.96
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "soya"],
+      "category": "desserts",
+      "description": "banana in panko breadcrumbs with a scoop of salted caramel ice cream",
+      "id": 142,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/banana_katsu.png",
+      "name": "banana katsu",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 32.37,
+          "energy": {
+            "kcal": 183,
+            "kj": 770
+          },
+          "fat": 5.38,
+          "fibre": 0.91,
+          "protein": 1.87,
+          "salt": 0.09,
+          "sat_fat": 3.06,
+          "sodium": 0.04,
+          "sugar": 20.01
+        },
+        "per_serving": {
+          "carbs": 43.7,
+          "energy": {
+            "kcal": 247,
+            "kj": 1040
+          },
+          "fat": 7.27,
+          "fibre": 1.23,
+          "protein": 2.52,
+          "salt": 0.12,
+          "sat_fat": 4.13,
+          "sodium": 0.05,
+          "sugar": 27.01
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "eggs", "milk", "tree nuts (almond nuts, hazelnuts, macadamia nuts, pecan nuts, pistachios, walnuts)", "peanuts", "soya"],
+      "category": "desserts",
+      "description": "layers of smoked chocolate mousse, salted caramel crushed biscuits, chocolate fudge brownie and chocolate ganache. served with a scoop of vanilla ice cream",
+      "id": 129,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/smoked_chocolate_caramel_cake.png",
+      "name": "smoked chocolate caramel cake",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 36.29,
+          "energy": {
+            "kcal": 343,
+            "kj": 1432
+          },
+          "fat": 20.2,
+          "fibre": 1.84,
+          "protein": 3.33,
+          "salt": 0.36,
+          "sat_fat": 12.23,
+          "sodium": 0.14,
+          "sugar": 30.31
+        },
+        "per_serving": {
+          "carbs": 54.79,
+          "energy": {
+            "kcal": 518,
+            "kj": 2162
+          },
+          "fat": 30.5,
+          "fibre": 2.78,
+          "protein": 5.02,
+          "salt": 0.54,
+          "sat_fat": 19.97,
+          "sodium": 0.22,
+          "sugar": 45.77
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "eggs", "milk", "tree nuts (almond nuts, brazil nuts, cashew nuts, hazelnuts, macadamia nuts, pecan nuts, pistachios, walnuts)", "peanuts", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "desserts",
+      "description": "served with raspberry compote and fresh mint",
+      "id": 146,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/yuzu_-_lemon_tart_.png",
+      "name": "yuzu + lemon tart",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 29.5,
+          "energy": {
+            "kcal": 260,
+            "kj": 1087
+          },
+          "fat": 14.38,
+          "fibre": 1.0,
+          "protein": 2.96,
+          "salt": 0.0,
+          "sat_fat": 7.87,
+          "sodium": 0.0,
+          "sugar": 20.53
+        },
+        "per_serving": {
+          "carbs": 34.51,
+          "energy": {
+            "kcal": 305,
+            "kj": 1272
+          },
+          "fat": 16.83,
+          "fibre": 1.17,
+          "protein": 3.46,
+          "salt": 0.0,
+          "sat_fat": 9.2,
+          "sodium": 0.0,
+          "sugar": 24.02
+        }
+      },
+      "price": 5.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "eggs", "milk", "mustard", "soya"],
+      "category": "desserts",
+      "description": "salted caramel parfait with a touch of wasabi on a crunchy biscuit base. topped with chocolate buckwheat shards and a salted caramel sauce",
+      "id": 130,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/salted_caramel_cheesecake.png",
+      "name": "salted caramel cheesecake",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 46.92,
+          "energy": {
+            "kcal": 314,
+            "kj": 1326
+          },
+          "fat": 12.68,
+          "fibre": 0.03,
+          "protein": 2.25,
+          "salt": 0.02,
+          "sat_fat": 7.53,
+          "sodium": 0.01,
+          "sugar": 38.23
+        },
+        "per_serving": {
+          "carbs": 57.24,
+          "energy": {
+            "kcal": 383,
+            "kj": 1618
+          },
+          "fat": 15.47,
+          "fibre": 0.03,
+          "protein": 2.74,
+          "salt": 0.03,
+          "sat_fat": 9.19,
+          "sodium": 0.01,
+          "sugar": 46.65
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["eggs", "milk", "tree nuts (almond nuts, brazil nuts, cashew nuts, hazelnuts, macadamia nuts, pecan nuts, pistachios, walnuts)", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "desserts",
+      "description": "served with vanilla ice cream and finished with chocolate sauce, mixed sesame seeds and fresh mint",
+      "id": 135,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/white_chocolate_-_matcha_cheesecake_.png",
+      "name": "white chocolate + matcha cheesecake",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 34.6,
+          "energy": {
+            "kcal": 378,
+            "kj": 1573
+          },
+          "fat": 24.76,
+          "fibre": 0.75,
+          "protein": 4.08,
+          "salt": 0.19,
+          "sat_fat": 13.94,
+          "sodium": 0.07,
+          "sugar": 22.84
+        },
+        "per_serving": {
+          "carbs": 46.71,
+          "energy": {
+            "kcal": 510,
+            "kj": 2124
+          },
+          "fat": 33.43,
+          "fibre": 1.01,
+          "protein": 5.51,
+          "salt": 0.25,
+          "sat_fat": 18.82,
+          "sodium": 0.1,
+          "sugar": 30.83
+        }
+      },
+      "price": 6.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["milk", "sesame seeds", "soya"],
+      "category": "desserts",
+      "description": "served with a chocolate sauce",
+      "id": 127,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/vietnamese_coffee_ice_cream.png",
+      "name": "vietnamese coffee ice cream",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 26.2,
+          "energy": {
+            "kcal": 175,
+            "kj": 735
+          },
+          "fat": 6.04,
+          "fibre": 0.33,
+          "protein": 19.43,
+          "salt": 0.04,
+          "sat_fat": 3.75,
+          "sodium": 0.02,
+          "sugar": 7.79
+        },
+        "per_serving": {
+          "carbs": 50.31,
+          "energy": {
+            "kcal": 337,
+            "kj": 1410
+          },
+          "fat": 11.6,
+          "fibre": 0.63,
+          "protein": 37.3,
+          "salt": 0.07,
+          "sat_fat": 7.19,
+          "sodium": 0.03,
+          "sugar": 14.96
+        }
+      },
+      "price": 4.5,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["this dish contains none of the listed allergens"],
+      "category": "desserts",
+      "description": "coconut ice cream topped with a passion fruit sauce and coconut flakes",
+      "id": 140,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/coconut_reika_ice_cream.png",
+      "name": "coconut reika ice cream",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 35.17,
+          "energy": {
+            "kcal": 221,
+            "kj": 932
+          },
+          "fat": 8.1,
+          "fibre": 1.5,
+          "protein": 1.15,
+          "salt": 0.09,
+          "sat_fat": 6.57,
+          "sodium": 0.04,
+          "sugar": 23.2
+        },
+        "per_serving": {
+          "carbs": 68.58,
+          "energy": {
+            "kcal": 432,
+            "kj": 1818
+          },
+          "fat": 15.79,
+          "fibre": 2.92,
+          "protein": 2.24,
+          "salt": 0.18,
+          "sat_fat": 12.81,
+          "sodium": 0.07,
+          "sugar": 45.23
+        }
+      },
+      "price": 4.5,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["soya"],
+      "category": "desserts",
+      "description": "with toffee sauce + fresh mint",
+      "id": 128,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/miso_caramel_ice_cream_.png",
+      "name": "miso caramel ice cream",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 33.36,
+          "energy": {
+            "kcal": 202,
+            "kj": 852
+          },
+          "fat": 7.16,
+          "fibre": 0.55,
+          "protein": 1.34,
+          "salt": 0.11,
+          "sat_fat": 5.27,
+          "sodium": 0.04,
+          "sugar": 22.31
+        },
+        "per_serving": {
+          "carbs": 69.06,
+          "energy": {
+            "kcal": 419,
+            "kj": 1763
+          },
+          "fat": 14.82,
+          "fibre": 1.13,
+          "protein": 2.77,
+          "salt": 0.22,
+          "sat_fat": 10.9,
+          "sodium": 0.09,
+          "sugar": 46.18
+        }
+      },
+      "price": 4.5,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["this dish contains none of the listed allergens "],
+      "category": "desserts",
+      "description": "chocolate + orange blossom ice cream. served with a passion fruit coulis and fresh mint",
+      "id": 153,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/chocolate_-_orange_blossom_ice_cream.png",
+      "name": "chocolate + orange blossom ice cream",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 32.64,
+          "energy": {
+            "kcal": 166,
+            "kj": 696
+          },
+          "fat": 2.39,
+          "fibre": 1.45,
+          "protein": 3.45,
+          "salt": 0.01,
+          "sat_fat": 0.76,
+          "sodium": 0.0,
+          "sugar": 22.35
+        },
+        "per_serving": {
+          "carbs": 57.77,
+          "energy": {
+            "kcal": 294,
+            "kj": 1232
+          },
+          "fat": 4.22,
+          "fibre": 2.56,
+          "protein": 6.11,
+          "salt": 0.01,
+          "sat_fat": 1.35,
+          "sodium": 0.0,
+          "sugar": 39.56
+        }
+      },
+      "price": 4.5,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["this dish contains none of the listed allergens "],
+      "category": "desserts",
+      "description": "served with a raspberry compote and fresh mint",
+      "id": 151,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/strawberry_-_yuzu_ice_cream.png",
+      "name": "strawberry + yuzu ice cream",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 28.29,
+          "energy": {
+            "kcal": 179,
+            "kj": 758
+          },
+          "fat": 5.65,
+          "fibre": 2.13,
+          "protein": 1.7,
+          "salt": 0.0,
+          "sat_fat": 2.57,
+          "sodium": 0.0,
+          "sugar": 21.22
+        },
+        "per_serving": {
+          "carbs": 51.49,
+          "energy": {
+            "kcal": 325,
+            "kj": 1379
+          },
+          "fat": 10.28,
+          "fibre": 3.88,
+          "protein": 3.1,
+          "salt": 0.0,
+          "sat_fat": 4.67,
+          "sodium": 0.0,
+          "sugar": 38.62
+        }
+      },
+      "price": 4.5,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["sesame seeds"],
+      "category": "desserts",
+      "description": "pink guava + passion fruit sorbet with fresh mint",
+      "id": 122,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/deserts/pink_guava_-_passion_fruit_sorbet.png",
+      "name": "pink guava + passion fruit sorbet",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 23.78,
+          "energy": {
+            "kcal": 99,
+            "kj": 420
+          },
+          "fat": 0.21,
+          "fibre": 0.00,
+          "protein": 0.14,
+          "salt": 0.0,
+          "sat_fat": 0.20,
+          "sodium": 0.0,
+          "sugar": 23.71
+        },
+        "per_serving": {
+          "carbs": 39.71,
+          "energy": {
+            "kcal": 166,
+            "kj": 702
+          },
+          "fat": 0.34,
+          "fibre": 0.0,
+          "protein": 0.24,
+          "salt": 0.01,
+          "sat_fat": 0.33,
+          "sodium": 0.0,
+          "sugar": 39.60
+        }
+      },
+      "price": 4.5,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    }
+  ]
+}
