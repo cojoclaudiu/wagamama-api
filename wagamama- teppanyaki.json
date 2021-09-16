@@ -215,8 +215,8 @@
       },
       "price": 9.25,
       "suitableFor": {
-        "vegan": true,
-        "vegetarian": false
+        "vegan": false,
+        "vegetarian": true
       }
     },
 
