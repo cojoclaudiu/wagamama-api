@@ -1,0 +1,223 @@
+{
+  "summer noodles": [
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "mustard", "sesame seeds", "soya", "sulphur dioxide/sulphites"],
+      "category": "summer noodles",
+      "description": "teriyaki dressed chicken. turmeric roasted cauliflower. tofu + edamame guac. pickled slaw. refreshing glass noodles. sliced radish. fresh coriander + chilli. sesame seeds.white dressing",
+      "id": 63,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/summer_noodles/april_menu-chicken_hiyashi-750px-0321.png",
+      "name": "teriyaki chicken hiyashi bowl",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 10.03,
+          "energy": {
+            "kcal": 124,
+            "kj": 516
+          },
+          "fat": 5.76,
+          "fibre": 1.37,
+          "protein": 7.47,
+          "salt": 1.07,
+          "sat_fat": 1.16,
+          "sodium": 0.43,
+          "sugar": 7.64
+        },
+        "per_serving": {
+          "carbs": 41.32,
+          "energy": {
+            "kcal": 510,
+            "kj": 2124
+          },
+          "fat": 23.73,
+          "fibre": 5.63,
+          "protein": 30.79,
+          "salt": 4.42,
+          "sat_fat": 4.77,
+          "sodium": 1.77,
+          "sugar": 31.46
+        }
+      },
+      "price": 11.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["mustard", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "summer noodles",
+      "description": "miso stir fried mushrooms, broccoli + kale. turmeric roasted cauliflower. tofu + edamame guac. pickled slaw. refreshing glass noodles. sliced radish. fresh coriander + chilli. sesame seeds. white dressing",
+      "id": 65,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/summer_noodles/april-menu-miso-veg-hiyashi-750px-0321.png",
+      "name": "miso mixed vegetable hiyashi bowl",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 8.8,
+          "energy": {
+            "kcal": 93,
+            "kj": 385
+          },
+          "fat": 5.12,
+          "fibre": 1.72,
+          "protein": 2.29,
+          "salt": 0.99,
+          "sat_fat": 0.59,
+          "sodium": 0.4,
+          "sugar": 6.25
+        },
+        "per_serving": {
+          "carbs": 37.15,
+          "energy": {
+            "kcal": 391,
+            "kj": 1626
+          },
+          "fat": 21.6,
+          "fibre": 7.24,
+          "protein": 9.65,
+          "salt": 4.18,
+          "sat_fat": 2.48,
+          "sodium": 1.67,
+          "sugar": 26.39
+        }
+      },
+      "price": 11.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "mustard", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "summer noodles",
+      "description": "spicy teriyaki shredded duck. turmeric roasted cauliflower. tofu + edamame guac. pickled slaw. glass noodles. sliced pickled radish fresh coriander + chilli. sesame seeds.white dressing",
+      "id": 64,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/summer_noodles/april-menu-duck-hiyashi-750px-0321.png",
+      "name": "teriyaki shredded duck hiyashi bowl",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 9.85,
+          "energy": {
+            "kcal": 182,
+            "kj": 757
+          },
+          "fat": 12.82,
+          "fibre": 1.29,
+          "protein": 6.5,
+          "salt": 1.27,
+          "sat_fat": 3.23,
+          "sodium": 0.51,
+          "sugar": 7.13
+        },
+        "per_serving": {
+          "carbs": 40.1,
+          "energy": {
+            "kcal": 743,
+            "kj": 3080
+          },
+          "fat": 52.17,
+          "fibre": 5.23,
+          "protein": 26.45,
+          "salt": 5.18,
+          "sat_fat": 13.13,
+          "sodium": 2.07,
+          "sugar": 29.02
+        }
+      },
+      "price": 12.75,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["fish", "soya", "sulphur dioxide/ sulphites"],
+      "category": "summer noodles",
+      "description": "glass noodles mixed with salmon. peashoots. edamame. adzuki beans. red radish. pickled asian slaw. tamari soy dressing. mint. sliced chillies. coconut thai sprinkle",
+      "id": 60,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/summer_noodles/april-menu-salmon-harusamei-750px-0321.png",
+      "name": "salmon harusame salad",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 13.06,
+          "energy": {
+            "kcal": 120,
+            "kj": 504
+          },
+          "fat": 4.27,
+          "fibre": 1.18,
+          "protein": 7.43,
+          "salt": 0.84,
+          "sat_fat": 0.93,
+          "sodium": 0.34,
+          "sugar": 5.89
+        },
+        "per_serving": {
+          "carbs": 13.06,
+          "energy": {
+            "kcal": 389,
+            "kj": 1629
+          },
+          "fat": 13.81,
+          "fibre": 3.8,
+          "protein": 23.98,
+          "salt": 2.72,
+          "sat_fat": 2.99,
+          "sodium": 1.09,
+          "sugar": 19.01
+        }
+      },
+      "price": 11.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["soya", "sulphur dioxide/ sulphites"],
+      "category": "summer noodles",
+      "description": "glass noodles mixed with fried tofu. peashoots. edamame. adzuki beans. red radish. pickled asian slaw. tamari soy dressing. mint. sliced chillies. coconut thai sprinkle",
+      "id": 62,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/summer_noodles/april-menu-tofu-harusame-750px-0321.png",
+      "name": "tofu harusame salad",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 15.12,
+          "energy": {
+            "kcal": 106,
+            "kj": 443
+          },
+          "fat": 2.93,
+          "fibre": 1.32,
+          "protein": 4.65,
+          "salt": 1.22,
+          "sat_fat": 0.79,
+          "sodium": 0.49,
+          "sugar": 7.23
+        },
+        "per_serving": {
+          "carbs": 45.81,
+          "energy": {
+            "kcal": 320,
+            "kj": 1343
+          },
+          "fat": 8.87,
+          "fibre": 4.01,
+          "protein": 14.08,
+          "salt": 3.71,
+          "sat_fat": 2.4,
+          "sodium": 1.48,
+          "sugar": 21.91
+        }
+      },
+      "price": 9.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    }
+  ]
+}
