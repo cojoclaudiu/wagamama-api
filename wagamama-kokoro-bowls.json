@@ -1,0 +1,179 @@
+{
+  "kokoro bowls": [
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "mustard", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "kokoro bowls",
+      "description": "made in collaboration with gaz oakley barbecue-glazed seitan served with a coconut + sriracha vegan ‘egg’, grilled shiitake mushrooms and asparagus on a bed of brown rice. topped with edamame beans, carrots and spring onions. dressed with a sweet amai sauce and garnished with sesame seeds and fresh lime",
+      "id": 90,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/kokoro%20bowls/avant_gardn.png",
+      "name": "avant gard'n",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 17.92,
+          "energy": {
+            "kcal": 132,
+            "kj": 556
+          },
+          "fat": 2.8,
+          "fibre": 2.0,
+          "protein": 7.8,
+          "salt": 1.12,
+          "sat_fat": 0.76,
+          "sodium": 0.45,
+          "sugar": 5.6
+        },
+        "per_serving": {
+          "carbs": 76.99,
+          "energy": {
+            "kcal": 567,
+            "kj": 2389
+          },
+          "fat": 12.03,
+          "fibre": 8.59,
+          "protein": 33.51,
+          "salt": 4.79,
+          "sat_fat": 3.72,
+          "sodium": 1.92,
+          "sugar": 24.06
+        }
+      },
+      "price": 11.25,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    },
+
+    {
+      "allergens": ["soya", "sulphur dioxide/ sulphites"],
+      "category": "kokoro bowls",
+      "description": "shu han lee collaboration turmeric, garlic + ginger marinated chicken, roasted and served on a bed of coconut + lemongrass dressed rice. pickled slaw + radish. chilli. coriander. caramelised lime.",
+      "id": 230,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/kokoro%20bowls/shus_shiok_chicken.png",
+      "name": "shu's 'shiok' chicken",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 12.36,
+          "energy": {
+            "kcal": 138,
+            "kj": 578
+          },
+          "fat": 5.0,
+          "fibre": 1.0,
+          "protein": 10.4,
+          "salt": 0.59,
+          "sat_fat": 1.98,
+          "sodium": 0.24,
+          "sugar": 2.9
+        },
+        "per_serving": {
+          "carbs": 51.05,
+          "energy": {
+            "kcal": 570,
+            "kj": 2387
+          },
+          "fat": 20.65,
+          "fibre": 4.13,
+          "protein": 42.95,
+          "salt": 2.43,
+          "sat_fat": 8.18,
+          "sodium": 0.97,
+          "sugar": 11.98
+        }
+      },
+      "price": 10.95,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (wheat)", "mustard", "soya"],
+      "category": "kokoro bowls",
+      "description": "grilled curried chicken on a bed of brown rice, with edamame beans, shredded carrots, dressed mixed leaves and japanese pickles. served with a side of katsu curry sauce",
+      "id": 78,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/kokoro%20bowls/naked_katsu.png",
+      "name": "naked katsu",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 9.89,
+          "energy": {
+            "kcal": 145,
+            "kj": 607
+          },
+          "fat": 6.6,
+          "fibre": 1.9,
+          "protein": 10.5,
+          "salt": 0.54,
+          "sat_fat": 1.52,
+          "sodium": 0.22,
+          "sugar": 1.5
+        },
+        "per_serving": {
+          "carbs": 41.38,
+          "energy": {
+            "kcal": 607,
+            "kj": 2540
+          },
+          "fat": 27.62,
+          "fibre": 7.95,
+          "protein": 43.94,
+          "salt": 2.27,
+          "sat_fat": 6.36,
+          "sodium": 0.91,
+          "sugar": 6.28
+        }
+      },
+      "price": 11.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["fish", "soya", "sulphur dioxide/ sulphites"],
+      "category": "kokoro bowls",
+      "description": "seared nuoc cham tuna steak on a bed of quinoa with stir-fried kale, sweet potato, edamame beans, red onion and peppers. garnished with coriander",
+      "id": 67,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/kokoro%20bowls/nuoc_cham_tuna.png",
+      "name": "seared nuoc cham tuna",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 10.37,
+          "energy": {
+            "kcal": 111,
+            "kj": 465
+          },
+          "fat": 3.9,
+          "fibre": 2.0,
+          "protein": 7.6,
+          "salt": 0.93,
+          "sat_fat": 0.34,
+          "sodium": 0.37,
+          "sugar": 5.0
+        },
+        "per_serving": {
+          "carbs": 43.76,
+          "energy": {
+            "kcal": 468,
+            "kj": 1962
+          },
+          "fat": 16.46,
+          "fibre": 8.44,
+          "protein": 32.07,
+          "salt": 3.94,
+          "sat_fat": 1.44,
+          "sodium": 1.57,
+          "sugar": 21.1
+        }
+      },
+      "price": 11.25,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    }
+  ]
+}
