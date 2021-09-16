@@ -1,0 +1,179 @@
+{
+  "donburi": [
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "eggs", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "donburi",
+      "description": "tender, shredded duck in a spicy teriyaki sauce. mixed with carrots, mangetout, sweet potato and red onion on a bed of sticky white rice and topped with a crispy fried egg, cucumber and spring onions. served with a side of kimchee",
+      "id": 89,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/donburi/grilled_duck.png",
+      "name": "grilled duck donburi",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 19.66,
+          "energy": {
+            "kcal": 191,
+            "kj": 799
+          },
+          "fat": 9.53,
+          "fibre": 0.87,
+          "protein": 6.56,
+          "salt": 0.93,
+          "sat_fat": 2.46,
+          "sodium": 0.37,
+          "sugar": 3.04
+        },
+        "per_serving": {
+          "carbs": 144.32,
+          "energy": {
+            "kcal": 1399,
+            "kj": 5863
+          },
+          "fat": 69.95,
+          "fibre": 6.39,
+          "protein": 48.14,
+          "salt": 6.8,
+          "sat_fat": 18.06,
+          "sodium": 2.72,
+          "sugar": 22.31
+        }
+      },
+      "price": 14.75,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "donburi",
+      "description": "chicken in teriyaki sauce with sticky white rice, shredded carrots, pea shoots and onions. garnished with sesame seeds and served with a side of kimchee",
+      "id": 70,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/donburi/teriyaki_chicken.png",
+      "name": "teriyaki chicken donburi",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 24.68,
+          "energy": {
+            "kcal": 150,
+            "kj": 636
+          },
+          "fat": 2.57,
+          "fibre": 0.98,
+          "protein": 7.12,
+          "salt": 0.7,
+          "sat_fat": 0.77,
+          "sodium": 0.28,
+          "sugar": 2.89
+        },
+        "per_serving": {
+          "carbs": 127.6,
+          "energy": {
+            "kcal": 777,
+            "kj": 3287
+          },
+          "fat": 13.29,
+          "fibre": 5.08,
+          "protein": 36.8,
+          "salt": 3.61,
+          "sat_fat": 3.99,
+          "sodium": 1.44,
+          "sugar": 14.94
+        }
+      },
+      "price": 10.75,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "donburi",
+      "description": "beef brisket in teriyaki sauce with sticky white rice, shredded carrots, pea shoots and onions. garnished with sesame seeds and served with a side of kimchee",
+      "id": 69,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/donburi/teriyaki_beef_brisket_1.png",
+      "name": "teriyaki beef donburi",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 23.61,
+          "energy": {
+            "kcal": 160,
+            "kj": 673
+          },
+          "fat": 4.55,
+          "fibre": 0.85,
+          "protein": 6.13,
+          "salt": 0.74,
+          "sat_fat": 0.82,
+          "sodium": 0.29,
+          "sugar": 3.01
+        },
+        "per_serving": {
+          "carbs": 130.33,
+          "energy": {
+            "kcal": 881,
+            "kj": 3716
+          },
+          "fat": 25.14,
+          "fibre": 4.7,
+          "protein": 33.86,
+          "salt": 4.06,
+          "sat_fat": 4.53,
+          "sodium": 1.62,
+          "sugar": 16.63
+        }
+      },
+      "price": 11.75,
+      "suitableFor": {
+        "vegan": false,
+        "vegetarian": false
+      }
+    },
+
+    {
+      "allergens": ["cereal containing gluten (barley, wheat)", "mustard", "sesame seeds", "soya", "sulphur dioxide/ sulphites"],
+      "category": "donburi",
+      "description": "shredded seitan + shiitake mushrooms in a cherry hoisin sauce. edamame beans. kimchee. cucumber. spring onion.chillies. coriander. sesame seeds. brown rice",
+      "id": 84,
+      "imageUrl": "https://raw.githubusercontent.com/cojoclaudiu/wagamama-images/main/donburi/jan-menu-image-CO-no-duck-donburi.png",
+      "name": "no duck donburi",
+      "nutritional_information": {
+        "per_100g": {
+          "carbs": 12.52,
+          "energy": {
+            "kcal": 112,
+            "kj": 471
+          },
+          "fat": 3.30,
+          "fibre": 3.10,
+          "protein": 6.50,
+          "salt": 1.20,
+          "sat_fat": 0.46,
+          "sodium": 0.48,
+          "sugar": 0.70
+        },
+        "per_serving": {
+          "carbs": 56.22,
+          "energy": {
+            "kcal": 503,
+            "kj": 2115
+          },
+          "fat": 14.82,
+          "fibre": 13.92,
+          "protein": 29.19,
+          "salt": 5.38,
+          "sat_fat": 2.07,
+          "sodium": 2.15,
+          "sugar": 3.14
+        }
+      },
+      "price": 11.95,
+      "suitableFor": {
+        "vegan": true,
+        "vegetarian": true
+      }
+    }
+  ]
+}
